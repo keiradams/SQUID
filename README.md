@@ -1,4 +1,4 @@
-This repository contains the necessary scripts to train and evaluate SQUID from the ICLR 2023 submission:
+This repository contains the necessary scripts to train and evaluate SQUID from:
 
 "Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design"
 
