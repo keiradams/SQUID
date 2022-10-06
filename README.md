@@ -1,3 +1,4 @@
+# SQUID :squid:
 
 This repository contains the necessary scripts to train and evaluate the 3D generative model SQUID from the paper:
 
@@ -117,5 +118,6 @@ Hence, you can optimize `GSK3B` while restricting the shape similarity to molecu
 ```MO_virtual_screening/``` contains the scripts used for virtual screening (VS) baseline, which includes screening for 1) each objective and 2) shape similarity to each of the seed (target) molecules.
 
 **Notes**
+
 Finally, please note that this repository will be continuously updated to improve the usability of SQUID.
 
