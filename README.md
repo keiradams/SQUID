@@ -1,3 +1,8 @@
+
+
+https://user-images.githubusercontent.com/52709065/194364463-f214ccc9-c33e-4a63-ae43-f45d62dce73f.mov
+
+
 This repository contains the necessary scripts to train and evaluate SQUID from:
 
 "Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design"
