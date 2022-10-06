@@ -1,6 +1,5 @@
 
-
-<video src="https://user-images.githubusercontent.com/52709065/194365060-2179f96b-1512-4bbe-b1a8-d4b25f4951a5.mov" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/52709065/194377661-7a915fad-898e-405c-a474-640ac95ad708.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 This repository contains the necessary scripts to train and evaluate SQUID from:
