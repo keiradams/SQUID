@@ -1,6 +1,6 @@
 
 
-https://user-images.githubusercontent.com/52709065/194365060-2179f96b-1512-4bbe-b1a8-d4b25f4951a5.mov
+![name](https://user-images.githubusercontent.com/52709065/194365060-2179f96b-1512-4bbe-b1a8-d4b25f4951a5.mov)
 
 This repository contains the necessary scripts to train and evaluate SQUID from:
 
