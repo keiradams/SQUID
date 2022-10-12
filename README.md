@@ -4,7 +4,7 @@ This repository contains the necessary scripts to train and evaluate the 3D gene
 
 ## Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design
 
-A pre-print of this paper will appear on ArXiv in the next few days; please check back for a link to the paper.
+Paper Link: https://arxiv.org/abs/2210.04893
 
 <video src="https://user-images.githubusercontent.com/52709065/194377661-7a915fad-898e-405c-a474-640ac95ad708.mp4" controls="controls" style="max-width: 730px;">
 </video>
