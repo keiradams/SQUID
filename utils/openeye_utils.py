@@ -25,6 +25,8 @@ from rdkit import Geometry
 from utils.general_utils import *
 
 def oemol_from_rdmol(rdkitmol):
+    # adapted from https://gist.github.com/iwatobipen/a4b787de000c8825c32f18c65f72e3a8
+    
     rdmol = deepcopy(rdkitmol)
     """
     Creates an openeye molecule object that is identical to the input rdkit molecule
