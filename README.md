@@ -6,6 +6,8 @@ This repository contains the necessary scripts to train and evaluate the 3D gene
 
 Paper Link: https://arxiv.org/abs/2210.04893
 
+**Update Dec. 6, 2024:** If you're interested in using SQUID for shape-conditioned 3D molecular generation, I highly recommend you look at our new work on *ShEPhERD* ([Github page](https://github.com/coleygroup/shepherd)), which also enables shape-conditioned molecular design. *ShEPhERD* is far more general than SQUID, and is easier to use, train, and adapt. We also compared *ShEPhERD* and SQUID head-to-head and found *ShEPhERD* to be much better at shape-conditioned 3D molecular generation. However, *ShEPhERD* is much slower at inference than SQUID, and does not guarantee the validity of generated molecules.
+
 <video src="https://user-images.githubusercontent.com/52709065/194377661-7a915fad-898e-405c-a474-640ac95ad708.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
